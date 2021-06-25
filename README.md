@@ -3,7 +3,8 @@ ECSWalk: A carcinogenic driver module detection method based on a network model.
 
 ## **Data used in this study:**
 
-In our research, we used data processed by Rafsan Ahmed, et al. and Mark D M Leiserson, et al. Download their research here respectively: https://doi.org/10.1093/bioinformatics/btz655 and https://doi.org/10.1038/ng.3168.
+In our research, we used data processed by Rafsan Ahmed, et al. and Mark D M Leiserson, et al. 
+Download their research here respectively: https://doi.org/10.1093/bioinformatics/btz655 and https://doi.org/10.1038/ng.3168.
 
 ## **Input：**
 
